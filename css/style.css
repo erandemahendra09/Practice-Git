@@ -1,0 +1,57 @@
+/**header css**/
+.container{width: 1010px !important;}
+.header{width: 100%;background: #434343;border-top: 3px solid #ffcc29; padding: 5px 0px;}
+.header h4{ font-size: 16px; color: #fff;margin: 28px 0px; float: right; }
+/**nav css**/
+ nav ul{margin: 0px;padding: 0px;}
+ nav ul li{line-height: 50px; float: left;margin: 0px 30px 0px 0px;list-style: none;padding: 0px 15px;}
+ nav ul li:hover{background: #ffcc29;text-decoration: none;}
+ nav ul li a{font-size: 15px;color: #434343;}
+/**banner css**/
+ .banner{background:url(../images/banner.jpg) no-repeat;height: 379px;background-size: cover;}
+ .well{/*width: 491px;*/margin: 120px auto 0px;background: rgba(240,233,222,0.4); border: none;}
+ .banner p{font-size: 22px; color: #000000;}
+ /**fed css**/
+ .fed{float: left;text-align: center;background: #efefef;width: 100%;padding: 0px 0px 30px 0px;}
+ .fed h2{font-size: 28px;color: #7b7b7b;text-align: center; border-bottom: 1px solid #c3c3c3;padding-bottom: 7px;}
+ .fed h2 span{font-size: 28px;color: #ffcc29;}
+ .fed p{font-size: 15px;color: #434343;}
+ .fed-button{padding: 5px 35px; border: 1px solid #434343; display: inline-block;color: #434343;margin-top: 15px;}
+ /**our services css**/
+ .services{width: 100%;float: left;background: #f6f6f6;}
+ .services h2{font-size: 28px;color: #434343;}
+ .services h3{font-size: 18px;color: #484848;margin-left: 7px;}
+ .services p{font-size: 13px;color: #484848;margin-left: 7px;}
+ .service-content {background: #fff;padding-bottom: 10px;}
+ /**gallary & testimonials css**/
+ .gt{width: 100%;float: left;background: #f6f6f6;padding: 0px 0px 30px 0px;}
+ .gt h3{font-size: 28px;color: #434343;}
+ .gt h4{font-size: 16px;color: #434343;margin: 0px;}
+ .gt span{font-size: 12px;color: #434343;}
+ .gt p{font-size: 13px;color: #434343;margin-top: 20px;}
+ .cont{}
+ .testi{background: #ffcb26; height: 164px;padding: 10px;position: relative;}
+ .testi img{position: absolute;top: 59px;left: 43px;}
+ .testi-pop{width: 245px;height: 50px; background: #f7f0d7;padding: 5px 0px 0px 10px;}
+ /**footer css**/
+ .footer{width: 100%;background: #434343;float: left;}
+ .footer h2{font-size: 18px;color: #fff;border-bottom: 3px solid #d0a92d;padding-bottom: 10px;}
+ .useful{padding: 0px;}
+ .useful li{list-style: none;margin-bottom: 3px;}
+ .useful li a{font-size: 13px;color: #9b9b9b;}
+ .location{padding: 0px;}
+ .location li{list-style: none;margin-bottom: 18px;}
+ .location li a{font-size: 13px;color: #9b9b9b;margin-left: 30px;}
+ .home{background:url(../images/home.png) no-repeat center left;}
+ .phone{background:url(../images/phone.png) no-repeat center left;}
+ .msg{background:url(../images/msg.png) no-repeat center left;}
+ .follow{padding: 0px;}
+ .follow li{list-style: none;margin-bottom: 18px;}
+ .follow li a{font-size: 13px;color: #9b9b9b;margin-left: 30px;}
+ .fa{background:url(../images/fa.png) no-repeat center left;}
+ .twitter{background:url(../images/twitter.png) no-repeat center left;}
+ .you{background:url(../images/you.png) no-repeat center left;}
+ .copy{width: 100%; background: #2e2e2e;padding: 5px 0px; float: left;}
+ .copy h3{font-size: 12px;color: #5d5d5d;}
+ .copy h3 a{font-size: 12px;color: #5d5d5d;}
+
